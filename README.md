@@ -14,12 +14,12 @@ Based in Pittsburgh, PA, I have a passion for blending the art of design with us
 
 ## Goals
 
-- To continually explore how technology can improve lives, especially for those with hidden disabilities.
+- To continually explore how technology can improve lives, especially for those with hidden disabilities.git 
 - To engage in meaningful discussions about the future of UX and its role in shaping user interactions with technology.
 
 ## Get in Touch
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/josh-aronoff/)]https://www.linkedin.com/in/josh-aronoff/
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/josh-aronoff/)]
 - **Email**: [aronoff @ gmail dot com]
 
 ---
