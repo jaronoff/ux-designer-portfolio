@@ -19,7 +19,7 @@ Based in Pittsburgh, PA, I have a passion for blending the art of design with us
 
 ## Get in Touch
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/josh-aronoff/)]
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/josh-aronoff/)
 - **Email**: [aronoff @ gmail dot com]
 
 ---
